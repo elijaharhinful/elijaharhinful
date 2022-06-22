@@ -18,6 +18,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+Show some ❤️ by starring some of my repositories!
 ---
 [![](https://visitcount.itsvg.in/api?id=elijaharhinful&icon=2&color=1)](https://visitcount.itsvg.in)
 .
