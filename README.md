@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @elijaharhinful<br>👀 I’m interested in anything web development.<br>🌱 I’m currently learning Typescript, Angular and Ionic.<br>💞️ I’m looking to collaborate on web development projects<br>🔭 I’m currently working on creating a WhatsApp clone using Angular.<br>🤔 I’m looking for help on how to merge food science and information technology to create quality food systems..<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - elijaharhinful8@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I'm a food scientist with a keen interest in information technology 😄.
+👋 Hi, I’m @elijaharhinful<br>👀 I’m interested in anything web development.<br>🌱 I’m currently learning React Js <br>💞️ I’m looking to collaborate on web development projects<br>🔭 I’m currently working on creating a fantastic personal portfolio website.<br>🤔 <br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - elijaharhinful8@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I'm a food scientist with a keen interest in information technology 😄.
 
 
 ## 🌐 Socials:
